@@ -1,0 +1,48 @@
+body {
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  color:white;
+  font-family: 'Brandon Grotesque';
+}
+
+p {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  padding: 0;
+  margin: 20px;
+  text-transform: uppercase;
+  font-weight: 300;
+  letter-spacing: 2px;
+
+}
+
+@font-face {
+  font-family: 'Brandon Grotesque';
+  src: url('./fonts/brandon_reg-webfont.eot');
+  src: url('./fonts/brandon_reg-webfont.eot?#iefix') format('embedded-opentype'),
+       url('./fonts/brandon_reg-webfont.woff2') format('woff2'),
+       url('./fonts/brandon_reg-webfont.woff') format('woff'),
+       url('./fonts/brandon_reg-webfont.ttf') format('truetype'),
+       url('./fonts/brandon_reg-webfont.svg#brandon_grotesque_regularRg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Brandon Grotesque';
+    src: url('./fonts/brandon_blk-webfont.eot');
+    src: url('./fonts/brandon_blk-webfont.eot?#iefix') format('embedded-opentype'),
+         url('./fonts/brandon_blk-webfont.woff2') format('woff2'),
+         url('./fonts/brandon_blk-webfont.woff') format('woff'),
+         url('./fonts/brandon_blk-webfont.ttf') format('truetype'),
+         url('./fonts/brandon_blk-webfont.svg#brandon_grotesqueblack') format('svg');
+    font-weight: 900;
+    font-style: normal;
+
+}

@@ -1,8 +1,13 @@
 Wave
 ===================
 
-COMING SOON
 
+Demo available [here](http://jojo.ninja/wave/).
+
+![Alt text](http://jojo.ninja/share/wave.gif "wave")
+
+
+// inspiration http://www.bongiovi.tw/projects/particlesValley/
 
 
 It uses Three.js and Greensock as depencies.
@@ -24,5 +29,3 @@ npm run build
 ```
 
 You are good to go !
-
-Fork of [threejs-starter-kit] (https://github.com/vdaguenet/threejs-starter-kit)
