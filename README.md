@@ -4,7 +4,7 @@ Wave
 
 Demo available [here](http://jojo.ninja/wave/).
 
-![Alt text](http://jojo.ninja/share/wave.gif "wave")
+![Alt text](http://jojo.ninja/share/wave.png "wave")
 
 
 // inspiration http://www.bongiovi.tw/projects/particlesValley/
